@@ -2,8 +2,6 @@
 
 Uses the local storage so that user cannot lose the data when the page is refreshed.
 
-### See the live demo [here](https://demoshoppingcart-wt.netlify.app/#/)
-
 ## Build Setup
 
 ```bash
